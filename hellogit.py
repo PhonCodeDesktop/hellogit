@@ -1,2 +1,2 @@
-print'new hello git!'
+print'new hello git1212!'
 print'hello git!'
